@@ -1,0 +1,19 @@
+{
+    "name": "live-share-extension-pack",
+    "displayName": "Live Share Extension Pack",
+    "description": "Collection of extensions for live sharing only",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-vsliveshare.vsliveshare",
+		"ms-vsliveshare.vsliveshare-audio",
+		"ms-vsliveshare.vsliveshare-pack",
+		"lostintangent.vsls-whiteboard"
+    ]
+}
