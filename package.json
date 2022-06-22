@@ -1,6 +1,6 @@
 {
-    "name": "live-share-extension-pack",
-    "displayName": "Live Share Extension Pack",
+    "name": "live-share-module",
+    "displayName": "Live Share Module",
     "description": "Collection of extensions for live sharing only",
     "version": "0.0.1",
     "publisher": "Maruf",
