@@ -13,6 +13,7 @@
     "extensionPack": [ 
         "ms-vsliveshare.vsliveshare",
 		"ms-vsliveshare.vsliveshare-audio",
-		"lostintangent.vsls-whiteboard"
+		"lostintangent.vsls-whiteboard",
+        "hbenl.vscode-test-explorer-liveshare"
     ]
 }
