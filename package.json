@@ -4,6 +4,7 @@
     "description": "Collection of extensions for live sharing only",
     "version": "0.0.1",
     "publisher": "Maruf",
+    "repository": "https://github.com/mbeps/maruf.live-share-module",
     "engines": {
         "vscode": "^1.67.0"
     },
