@@ -2,7 +2,7 @@
     "name": "live-share-module",
     "displayName": "Live Share Module",
     "description": "Collection of extensions for live sharing only",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Maruf",
     "repository": "https://github.com/mbeps/maruf.live-share-module",
     "engines": {
@@ -13,7 +13,6 @@
     ],
     "extensionPack": [ 
         "ms-vsliveshare.vsliveshare",
-		"ms-vsliveshare.vsliveshare-audio",
 		"lostintangent.vsls-whiteboard",
         "hbenl.vscode-test-explorer-liveshare"
     ]
